@@ -1,0 +1,7 @@
+commit_hash,Name,file_la,file_ld,file_lt,file_age,file_ddev,file_nuc,own,minor,file_ndev,file_ncomm,file_adev,file_nadev,file_avg_nddev,file_avg_nadev,file_avg_ncomm,file_ns,file_exp,file_sexp,file_rexp,file_nd,file_sctr
+5eac686113561aaef4626823affd075a925cbdeb,org.fest.assertions.api,26,0,0,0.0,1,0,1.0,0,0,0,1,0,0.0,0.0,0.0,1,8830,1.0,0.0,1.0,-0.20788055998399585
+5eac686113561aaef4626823affd075a925cbdeb,org.fest.assertions.api.com.actionbarsherlock.app,158,0,0,0.0,1,0,1.0,0,0,0,1,0,0.0,0.0,0.0,1,8831,2.0,0.0,1.0,-0.5167625882799649
+5eac686113561aaef4626823affd075a925cbdeb,org.fest.assertions.api.com.actionbarsherlock.view,58,0,0,0.0,1,0,1.0,0,0,0,1,0,0.0,0.0,0.0,1,8833,4.0,0.0,1.0,-0.34188710667827216
+805104bcdde195bfca034b55f0fbc57f378c136d,android.support.v4.app,1371,0,0,0.0,1,0,1.0,0,0,0,1,0,0.0,0.0,0.0,1,6120,248.0,1.008135364939854,1.0,-0.4179081920625268
+bf43e3ac3ba1c1645e8c45c7692a774b53149367,android.support.v4.app,39,45,1019,0.17211805555555554,4,2,1.0,0,0,0,2,0,0.0,0.0,0.0,1,6132,251.0,1.0460728494937586,1.0,-0.36596248927857533
+e23de78b664be32bcc8888afe338e994bdac6403,android.support.v4.app,0,1371,1371,2.6940625,4,2,1.0,0,24,21,2,21,0.25263157894736843,0.22105263157894736,0.22105263157894736,1,6196,270.0,1.0344045738969632,1.0,-0.37150222643314695

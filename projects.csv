@@ -1,0 +1,13 @@
+repo_name,repo_owner,git_url,api_base_url,source_type,access_token,lang,commits,defective
+600SeriesAndroidUploader,pazaan,https://github.com/pazaan/600SeriesAndroidUploader,http://api.github.com,github_repo,,Java,571,162
+addressbook-level3,nus-cs2103-AY1920S1,https://github.com/nus-cs2103-AY1920S1/addressbook-level3,http://api.github.com,github_repo,,Java,1346,162
+addressbook-level4,se-edu,https://github.com/se-edu/addressbook-level4,http://api.github.com,github_repo,,Java,1284,159
+aem-core-wcm-components,adobe,https://github.com/adobe/aem-core-wcm-components,http://api.github.com,github_repo,,Java,653,86
+aho-corasick,robert-bor,https://github.com/robert-bor/aho-corasick,http://api.github.com,github_repo,,Java,88,16
+airline,airlift,https://github.com/airlift/airline,http://api.github.com,github_repo,,Java,111,26
+aliyun-oss-android-sdk,aliyun,https://github.com/aliyun/aliyun-oss-android-sdk,http://api.github.com,github_repo,,Java,499,55
+aliyun-oss-java-sdk,aliyun,https://github.com/aliyun/aliyun-oss-java-sdk,http://api.github.com,github_repo,,Java,261,54
+allure2,allure-framework,https://github.com/allure-framework/allure2,http://api.github.com,github_repo,,Java,623,237
+AlphabetIndex-Fast-Scroll-RecyclerView,myinnos,https://github.com/myinnos/AlphabetIndex-Fast-Scroll-RecyclerView,http://api.github.com,github_repo,,Java,106,14
+Amadeus,Yink,https://github.com/Yink/Amadeus,http://api.github.com,github_repo,,Java,279,39
+amazon-kinesis-client,awslabs,https://github.com/awslabs/amazon-kinesis-client,http://api.github.com,github_repo,,Java,301,67
