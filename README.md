@@ -1,4 +1,4 @@
-# Revisiting Process versus Product Metrics: a LargeScale Analysis
+# [Revisiting Process versus Product Metrics: a LargeScale Analysis](https://github.com/Suvodeep90/Revisit_process_product/files/7150027/A_large_scale_study_on_importance_of_process_vs_product_metrics.pdf)
 
 Numerous  methods can  build predictive models from software  data. But what methods and conclusions should we endorse as we move from analytics in-the-small (dealing with a handful of projects) to analytics in-the-large (dealing with hundreds of projects)? 
 
